@@ -1,0 +1,16 @@
+{
+    "name": "vote2018/vote2018",
+    "description": "Get the fuck out and vote.",
+    "keywords": [ "vote", "democracy", "2018" ],
+    "require": {
+      
+    },
+    "require-dev": {
+    
+    },
+    "autoload": {
+      "psr-4": {
+        "Vote2018\\Vote\\": "src/"
+      }
+    },
+}
